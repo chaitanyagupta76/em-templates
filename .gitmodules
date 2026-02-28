@@ -1,3 +1,6 @@
 [submodule "WED01"]
 	path = WED01
 	url = https://github.com/chaitanyagupta76/WED01.git
+[submodule "BIR1"]
+	path = BIR1
+	url = https://github.com/chaitanyagupta76/BIR1.git
