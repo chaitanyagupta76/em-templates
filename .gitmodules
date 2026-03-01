@@ -4,3 +4,7 @@
 [submodule "BIR1"]
 	path = BIR1
 	url = https://github.com/chaitanyagupta76/BIR1.git
+[submodule "wed2"]
+	path = wed2
+	url = https://github.com/chaitanyagupta76/wed2.git
+	branch = main
