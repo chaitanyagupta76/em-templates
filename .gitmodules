@@ -8,3 +8,6 @@
 	path = wed2
 	url = https://github.com/chaitanyagupta76/wed2.git
 	branch = main
+[submodule "wed3"]
+	path = wed3
+	url = https://github.com/chaitanyagupta76/wed3.git
