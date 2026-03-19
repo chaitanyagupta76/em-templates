@@ -14,3 +14,6 @@
 [submodule "bir2"]
 	path = bir2
 	url = https://github.com/chaitanyagupta76/bir2
+[submodule "wed4"]
+	path = wed4
+	url = https://github.com/chaitanyagupta76/wed4.git
