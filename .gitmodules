@@ -17,3 +17,9 @@
 [submodule "wed4"]
 	path = wed4
 	url = https://github.com/chaitanyagupta76/wed4.git
+[submodule "wed5"]
+	path = wed5
+	url = https://github.com/chaitanyagupta76/wed5.git
+[submodule "wed6"]
+	path = wed6
+	url = https://github.com/chaitanyagupta76/wed6.git
